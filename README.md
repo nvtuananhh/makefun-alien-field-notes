@@ -14,6 +14,8 @@ They pay to be shouted at while running nowhere, then pay to sit in hot water â€
 
 `main.py` writes the single line to `/output/entry.txt` when run.
 
+Gate: one line, 1â€“200 UTF-8 characters, verified over three runs with identical output.
+
 ## Bounty
 
 Built for the make.fun bounty [Alien Field Notes: The Two Day Earth Review](https://make.fun/bounty/u-swift-raven-16-alien-field-notes-the-two-day-earth-7647b000).
